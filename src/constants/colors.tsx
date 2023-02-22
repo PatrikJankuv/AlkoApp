@@ -1,0 +1,16 @@
+export const TEAL_600 = "#047481";
+export const TEAL_200 = "#AFECEF";
+export const GRAY_600 = "#4B5563";
+export const GRAY_700 = "#374151";
+export const COOL_GRAY_400 = "#97A6BA";
+export const GRAY_200 = "#E5E7EB";
+export const COOL_GRAY_500 = "#64748B";
+export const COOL_GRAY_200 = "#E2E8F0";
+export const WHITE = "#FFFFFF";
+export const BLACK = "#000000";
+export const YELLOW_50 = "#FDFDEA";
+export const RED_50 = "#FDF2F2";
+export const PURPLE_50 = "#F6F5FF";
+export const BLUE_50 = "#EBF5FF";
+export const ORANGE_50 = "#FFF8F1";
+export const YELLOW_600 = "#9F580A";
